@@ -2,9 +2,7 @@
 
 ## Configuration
 ```bash
-git clone https://github.com/PoliTeK/PSP-PlantSignalProcessing.git
-cd PSP-PlantSignalProcessing
-git submodule update --init --recursive
+git clone https://github.com/Voltage01/PoliWhamn.git
 ```
 
 ## Structure of the Project
