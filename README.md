@@ -2,11 +2,13 @@
 	<br>
 		<img src="Images/ViewCapture20251205_040147.png" width="600">
 	<br>
-		TS741
+		PoliWahnm
 	<br>
 </h1>
 
-# PoliWhanm - Experimental Wah-Pedal
+<h4 align="center">A Wireless Controlled Wah Pedal from PoliTeK <a href="https://www.ibanez.com/eu/products/detail/ts9_99.html">Ibanez TS9</a>.</h4>
+
+---
 
 ## Configuration
 ```bash
