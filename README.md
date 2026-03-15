@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-		<img src="Images/ViewCapture20251205_040147.png" width="200">
+		<img src="Images/ViewCapture20251205_040147.png" width="600">
 	<br>
 		TS741
 	<br>
