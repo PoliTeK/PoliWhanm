@@ -1,3 +1,11 @@
+<h1 align="center">
+	<br>
+		<img src="Images/ViewCapture20251205_040147.png" width="200">
+	<br>
+		TS741
+	<br>
+</h1>
+
 # PoliWhanm - Experimental Wah-Pedal
 
 ## Configuration
