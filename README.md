@@ -22,7 +22,7 @@
 
 - **... different modes of configuration** (hat, feet, arm, guitar neck, hand).
 - **9V Battery slot**, automatically unplugged when using cable power.
-- **True Bypass** (under work).
+- **True Bypass**.
 
 ## List of Components (To be Updated after Finished)
 
