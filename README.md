@@ -30,22 +30,23 @@
 
 | Resistor | Characteristics                 | Link                                                                                                                                                                                                            |
 | -------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| $R1$     | $1\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-1k?qs=oAGoVhmvjhwCAC47ReWjsQ%3D%3D)                                                                                                              |
-| $R2$     | $510\ k\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-510k?qs=oAGoVhmvjhztnZ0uHzkmNA%3D%3D)                                                                                                            |
-| $R3$     | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-10k?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D)                                                                                                             |
-| $R4$     | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-10k?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D)                                                                                                             |
-| $R5$     | $51\ k\Omega$<br>$100\ k\Omega$ | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FTE52-51k?qs=UFD7vfw3J8rfrZHNaVfLZQ%3D%3D)<br>[Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FTE52-100k?qs=oAGoVhmvjhwR6%252B9HMeoFJQ%3D%3D) |
-| $R6$     | $4.7\ k\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-12FTF52-4k7?qs=oAGoVhmvjhwCB3QIStJPAg%3D%3D)                                                                                                             |
-| $R7$     | $1\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-1k?qs=oAGoVhmvjhwCAC47ReWjsQ%3D%3D)                                                                                                              |
-| $R8$     | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-10k?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D)                                                                                                             |
-| $R9$     | $1\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-1k?qs=oAGoVhmvjhwCAC47ReWjsQ%3D%3D)                                                                                                              |
-| $R10$    | $220\ \Omega$<br>$100\ \Omega$  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FTE52-220R?qs=oAGoVhmvjhzQYrU74Ttjlg%3D%3D)<br>[Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-12FTE52-100R?qs=LqRJI78XBD5hLi4WOGMVUQ%3D%3D)    |
-| $R11$    | $1\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-1k?qs=oAGoVhmvjhwCAC47ReWjsQ%3D%3D)                                                                                                              |
-| $R12$    | $510\ k\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-510k?qs=oAGoVhmvjhztnZ0uHzkmNA%3D%3D)                                                                                                            |
-| $R13$    | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-10k?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D)                                                                                                             |
-| $R14$    | $100\ \Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-12FTE52-100R?qs=LqRJI78XBD5hLi4WOGMVUQ%3D%3D)                                                                                                            |
-| $R15$    | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-10k?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D)                                                                                                             |
-| $R$      | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/MFR-25FBF52-10k?qs=oAGoVhmvjhxY0mVN9GL5Pg%3D%3D)                                                                                                             |
+| $R1$     | $50\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RT0603BRD0750KL?qs=qpJ%252B%252B%252Bdg6p2%2FJCmrad8NSA%3D%3D)                                                                                                              |
+| $R2$     | $1.8\ M\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/Vishay-Beyschlag/MCT06030C1804FP500?qs=sIxod1zg5hFtJLI%252BE%252B4t5Q%3D%3D)                                                                                                            |
+| $R3$     | $2.2\ M\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/Vishay/CRCW06032M20FKEA?qs=3X1h7o1miCBXdGAu7crHeg%3D%3D)                                                                                                             |
+| $R4$     | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/AC0805FR-1310KL?qs=r5DSvlrkXmIkVZsp1lM0Xw%3D%3D)                                                                                                             |
+| $R5$     | $68\ k\Omega$					 | [Mouser](https://www.mouser.it/ProductDetail/Panasonic/ERJ-6GEYJ683V?qs=gybxhQrZOyFqSdwD0Nnt0g%3D%3D) 
+				 |
+| $R6$     | $1.5\ k\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/Vishay/CRCW08051K50JNEAC?qs=E3Y5ESvWgWNLaVeuGvgL2w%3D%3D)                                                                                                             |
+| $R7$     | $22\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805FR-0722KP?qs=qpJ%252B%252B%252Bdg6p1%252Bujocy6HmmQ%3D%3D)                                                                                                              |
+| $R8$     | $390\ \Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/KOA-Speer/RK73B2ATTD391J?qs=nEPxhbwDDYmySWdMHi8xrQ%3D%3D)                                                                                                             |
+| $R9$     | $33\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/AF0805JR-0733KL?qs=tggtontpCXOgoKY0nuhjTA%3D%3D)                                                                                                              |
+| $R10$    | $470\ k\Omega$					  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805JR-10470KL?qs=qpJ%252B%252B%252Bdg6p2o1a4CuTWYzg%3D%3D)   
+					|
+| $R11$    | $470\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805JR-10470KL?qs=qpJ%252B%252B%252Bdg6p2o1a4CuTWYzg%3D%3D)                                                                                                              |
+| $R12$    | $82\ k\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805FR-1082KL?qs=m6lXFsvg5e1xvGFD2D%2F3dA%3D%3D)                                                                                                            |
+| $R13$    | $1\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/Vishay/RCA08051K00JNEASR?qs=4dK74SdgGtzzeVVdjfchZQ%3D%3D)                                                                                                             |
+| $R14$    | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/AC0805FR-1310KL?qs=r5DSvlrkXmIkVZsp1lM0Xw%3D%3D)                                                                                                            |
+| $R15$    | $100\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/TR0805NR-07100KL?qs=8cPjvKtxWv5DyBOOAqXaXg%3D%3D)                                                                                                             |
 
 ### Capacitors
 
@@ -62,21 +63,21 @@
 | $C9$      | $10\mu F/16V$ film                           | [Mouser](https://www.mouser.it/ProductDetail/kEMET/C430C106k3R5TA?qs=QTajy0ParP4Iyid6Jgh%2FcQ%3D%3D)                                                                                                                             |
 | $C10$     | $100\mu F/10V$ electrolytic                  | [Mouser](https://www.mouser.it/ProductDetail/Vishay-BC-Components/MAL214231101E3?qs=Ep9Lwju7gVq%252BiOgwdeHCkg%3D%3D)                                                                                                            |
 | $C11$     | $47\mu F/10V$ electrolytic                   | [Mouser](https://www.mouser.it/ProductDetail/kEMET/ESH476M050AG3kA?qs=gt1LBUVyoHkBFAjlyc6dSw%3D%3D)                                                                                                                              |
+| $C12$     | $47\mu F/10V$ electrolytic                   | [Mouser](https://www.mouser.it/ProductDetail/kEMET/ESH476M050AG3kA?qs=gt1LBUVyoHkBFAjlyc6dSw%3D%3D)                                                                                                                              |
+| $C13$     | $47\mu F/10V$ electrolytic                   | [Mouser](https://www.mouser.it/ProductDetail/kEMET/ESH476M050AG3kA?qs=gt1LBUVyoHkBFAjlyc6dSw%3D%3D)                                                                                                                              |
+| $C14$     | $47\mu F/10V$ electrolytic                   | [Mouser](https://www.mouser.it/ProductDetail/kEMET/ESH476M050AG3kA?qs=gt1LBUVyoHkBFAjlyc6dSw%3D%3D)                                                                                                                              |
+| $C15$     | $47\mu F/10V$ electrolytic                   | [Mouser](https://www.mouser.it/ProductDetail/kEMET/ESH476M050AG3kA?qs=gt1LBUVyoHkBFAjlyc6dSw%3D%3D)                                                                                                                              |
+| $C16$     | $47\mu F/10V$ electrolytic                   | [Mouser](https://www.mouser.it/ProductDetail/kEMET/ESH476M050AG3kA?qs=gt1LBUVyoHkBFAjlyc6dSw%3D%3D)                                                                                                                              |
+| $C17$     | $47\mu F/10V$ electrolytic                   | [Mouser](https://www.mouser.it/ProductDetail/kEMET/ESH476M050AG3kA?qs=gt1LBUVyoHkBFAjlyc6dSw%3D%3D)                                                                                                                              |
 
 ### Diodes
 
 | Diode    | Characteristics                            | Part Number              | Link                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------ | ---------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | $D1$         | Silicon diode                                  | `1N4148`                     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)                                                                                                                                                                                                                                                                                                                                            |
-| $D2$         | Silicon diode                                  | `1N4148`                     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)                                                                                                                                                                                                                                                                                                                                            |
 | $D3$<br>$D4$ | Silicon diode<br>Germanium diode<br>LED<br>BJT | `1N4148`<br>`OA95`<br>-<br>- | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D)<br>[Pinto Elettronica](https://www.pintoelettronica.com/diodi-ponti-diodo-germanio-oa95.1.0.16.gp.4502.uw)<br>[Mouser](https://www.mouser.it/ProductDetail/Vishay-Siliconix/TLHG6420-CSZ?qs=M%2FWrVUahkW%2Feu6sB%252BQbN0w%3D%3D)<br>[Mouser](https://www.mouser.it/ProductDetail/Rectron/PN2222A-B?qs=wmP56CznGQlBAFU%2Fw%252Bn5vQ%3D%3D) |
 | $D$          | Silicon diode                                  | `1N4004`                     | [Mouser](https://www.mouser.it/ProductDetail/Diotec-Semiconductor/1N4004?qs=OlC7AqGiEDk3eaZusDVIWQ%3D%3D)                                                                                                                                                                                                                                                                                                                                          |
 
-### OP Amp
-
-| OP Amp | Part Number | Link                                                                                                    |
-| ------ | ----------- | ------------------------------------------------------------------------------------------------------- |
-| $IC1$  | `TL072`     | [Mouser](https://www.mouser.it/ProductDetail/Texas-Instruments/TL072CP?qs=5nGYs9Do7G3e6Tx9uHIgUA%3D%3D) |
 
 ### Transistors
 
@@ -84,14 +85,14 @@
 | ---------- | ----------- | --------------------------------------------------------------------------------------------------------- |
 | $Q1$       | `BC550`     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/BC550CTA?qs=ljbEvF4DwOM46%2Fg9NzWlqQ%3D%3D) |
 | $Q2$       | `BC550`     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/BC550CTA?qs=ljbEvF4DwOM46%2Fg9NzWlqQ%3D%3D) |
+| $Q3$       | `BC550`     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/BC550CTA?qs=ljbEvF4DwOM46%2Fg9NzWlqQ%3D%3D) |
+| $Q4$       | `BC550`     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/BC550CTA?qs=ljbEvF4DwOM46%2Fg9NzWlqQ%3D%3D) |
 
 ### Potentiometers
 
 | Potentiometer | Characteristics            | Part Number            | Link                                                                                                                        |
 | ------------- | -------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Drive         | $500\ k\Omega$ logarithmic | `313-1200F-500K`       | [Mouser](https://www.mouser.it/ProductDetail/Alpha-Taiwan/RV120F-10-15F-A500K-0075?qs=8%252Br4Hz5Xir%252BR5U1RPGVC5A%3D%3D) |
-| Tone          | $20\ k\Omega$ linear       | `652-PTV09A-4225FB203` | [Mouser](https://www.mouser.it/ProductDetail/Bourns/PTV09A-4225F-B203?qs=Qzws7J6gxqyY5BTaAqzbXg%3D%3D)                      |
-| Level         | $100\ k\Omega$ linear      | `652-PTV09A-4225FB104` | [Mouser](https://www.mouser.it/ProductDetail/Bourns/PTV09A-4225F-B104?qs=Qzws7J6gxqyxh%252BD4YdlzTg%3D%3D)                  |
 
 ### Connectors and switches
 
