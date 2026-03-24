@@ -87,17 +87,16 @@
 
 | IC | Part Number | Link                                                                                                      |
 | ---------- | ----------- | --------------------------------------------------------------------------------------------------------- |
-| $Digipot$       | `MCP41100-E/P`     | [Mouser](https://www.mouser.it/ProductDetail/Microchip-Technology/MCP41100-E-P?qs=sGAEpiMZZMsX%252BY3VKDPZyFnq8mwMUQK9g%252B2EoYQZ2Ag%3D) |
+| Digipot       | `MCP41100-E/P`     | [Mouser](https://www.mouser.it/ProductDetail/Microchip-Technology/MCP41100-E-P?qs=sGAEpiMZZMsX%252BY3VKDPZyFnq8mwMUQK9g%252B2EoYQZ2Ag%3D) |
 
 ### Connectors and switches
 
 | Component                | Link                                                                                                                   |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | Battery Snaps & Contacts | [Mouser](https://www.mouser.it/ProductDetail/Eagle-Plastic-Devices/12BH614A-GR?qs=AUVJHMdIU7wQzMG3L3ucqw%3D%3D)        |
-| $6.35\ mm$ Audio Jack    | [Mouser](https://www.mouser.it/ProductDetail/Same-Sky/MJ-63022B?qs=hWgE7mdIu5QSu1ii218TqA%3D%3D)                       |
-| $2.1\ mm$ DC Barrel Jack | [Mouser](https://www.mouser.it/ProductDetail/Adafruit/373?qs=GURawfaeGuDDC%2FyE6Usrdw%3D%3D)                           |
-| Footswitch               | [Mouser](https://www.mouser.it/ProductDetail/Alpha-Taiwan/SF12020F-0202-20R-L-051?qs=8%252Br4Hz5Xir9qUCH0hqBLqw%3D%3D) |
-| Switch                   | [Mouser](https://www.mouser.it/ProductDetail/Soldered/000038?qs=%252BXxaIXUDbq3TSk5iYkYaUg%3D%3D)                      |
+| $6.35\ mm$ Audio Jack    | [Mouser](https://www.mouser.it/ProductDetail/Schurter/4833.2330?qs=wwP%252BWDYHj0Z3fNxHdwSLYg%3D%3D)                       |
+| $2.1\ mm$ DC Barrel Jack | [Mouser](https://www.mouser.it/ProductDetail/Same-Sky/PJ-102A?qs=WyjlAZoYn50UKjtnxOz%252Bqg%3D%3D&utm_id=23236092145&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=23226750681&gbraid=0AAAAADn_wf1w6IMtynQR0b15pIM91Px2s&gclid=Cj0KCQjw7IjOBhDyARIsAFzrWQwMz33c6ZV2dTHAsYJLuO81OtBussGk_S2qUXRyiHQX73avFUa5sUAaAuM5EALw_wcB)                           |
+| Footswitch               | [Mouser](https://www.mouser.it/ProductDetail/E-Switch/FS57003PLT2B2M2QE?qs=sGAEpiMZZMug9GoBKXZ750pmM0hH3VHOpFKNBF9vaYkyDevXkMGILA%3D%3D) |
 
 
 ## How To Use
