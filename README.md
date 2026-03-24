@@ -101,6 +101,7 @@
 | IC | Part Number | Link                                                                                                      |
 | ---------- | ----------- | --------------------------------------------------------------------------------------------------------- |
 | Digipot       | `MCP41100-E/P`     | [Mouser](https://www.mouser.it/ProductDetail/Microchip-Technology/MCP41100-E-P?qs=sGAEpiMZZMsX%252BY3VKDPZyFnq8mwMUQK9g%252B2EoYQZ2Ag%3D) |
+| PS1       | `R-78E5.0-0.5`     | [Mouser](https://www.mouser.it/ProductDetail/RECOM-Power/R-78E50-05?qs=JeAkOuORR2UvBuiB2kZVZQ%3D%3D&utm_id=1065400243&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=1065400243&gbraid=0AAAAADn_wf0-v1MrGWBwaNYgl-x8Fxjb1&gclid=Cj0KCQjw7IjOBhDyARIsAFzrWQzoDZi9_5sw-6wPS8QXvx1LGVTnlkeCAkLA43VfCvJ0T6hIRuAS4_AaAlVIEALw_wcB) |
 
 ### Connectors and switches
 
