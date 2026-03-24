@@ -77,10 +77,10 @@
 
 | Transistor | Part Number | Link                                                                                                      |
 | ---------- | ----------- | --------------------------------------------------------------------------------------------------------- |
-| $Q1$       | `BC550`     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/BC550CTA?qs=ljbEvF4DwOM46%2Fg9NzWlqQ%3D%3D) |
-| $Q2$       | `BC550`     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/BC550CTA?qs=ljbEvF4DwOM46%2Fg9NzWlqQ%3D%3D) |
-| $Q3$       | `BC550`     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/BC550CTA?qs=ljbEvF4DwOM46%2Fg9NzWlqQ%3D%3D) |
-| $Q4$       | `BC550`     | [Mouser](https://www.mouser.it/ProductDetail/onsemi-Fairchild/BC550CTA?qs=ljbEvF4DwOM46%2Fg9NzWlqQ%3D%3D) |
+| $Q1$       | `ZTX603`     | [Mouser](https://www.mouser.it/ProductDetail/Diodes-Incorporated/ZTX603?qs=zhx2xqPtQQzSVtV6bp63RA%3D%3D) |
+| $Q2$       | `MPSA18`     | [Mouser](https://www.mouser.it/ProductDetail/Central-Semiconductor/MPSA18-TIN-LEAD?qs=l7cgNqFNU1iVtnZi2z3FUg%3D%3D) |
+| $Q3$       | `MPSA18`     | [Mouser](https://www.mouser.it/ProductDetail/Central-Semiconductor/MPSA18-TIN-LEAD?qs=l7cgNqFNU1iVtnZi2z3FUg%3D%3D) |
+| $Q4$       | `TSM680P06CH X0G`     | [Mouser](https://www.mouser.it/ProductDetail/Taiwan-Semiconductor/TSM680P06CH-X0G?qs=5aG0NVq1C4zlg2skZHcgkQ%3D%3D) |
 
 ### Potentiometers
 
