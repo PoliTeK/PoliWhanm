@@ -30,22 +30,22 @@
 
 | Resistor | Characteristics                 | Link                                                                                                                                                                                                            |
 | -------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| $R1$     | $50\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RT0603BRD0750KL?qs=qpJ%252B%252B%252Bdg6p2%2FJCmrad8NSA%3D%3D)                                                                                                              |
-| $R2$     | $1.8\ M\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/Vishay-Beyschlag/MCT06030C1804FP500?qs=sIxod1zg5hFtJLI%252BE%252B4t5Q%3D%3D)                                                                                                            |
+| $R1$     | $50\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RT0603BRD0750KL?qs=qpJ%252B%252B%252Bdg6p2%2FJCmrad8NSA%3D%3D)                                                                                               |
+| $R2$     | $1.8\ M\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/Vishay-Beyschlag/MCT06030C1804FP500?qs=sIxod1zg5hFtJLI%252BE%252B4t5Q%3D%3D)                                                                        |
 | $R3$     | $2.2\ M\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/Vishay/CRCW06032M20FKEA?qs=3X1h7o1miCBXdGAu7crHeg%3D%3D)                                                                                                             |
 | $R4$     | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/AC0805FR-1310KL?qs=r5DSvlrkXmIkVZsp1lM0Xw%3D%3D)                                                                                                             |
 | $R5$     | $68\ k\Omega$					 | [Mouser](https://www.mouser.it/ProductDetail/Panasonic/ERJ-6GEYJ683V?qs=gybxhQrZOyFqSdwD0Nnt0g%3D%3D) 
 				 |
 | $R6$     | $1.5\ k\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/Vishay/CRCW08051K50JNEAC?qs=E3Y5ESvWgWNLaVeuGvgL2w%3D%3D)                                                                                                             |
-| $R7$     | $22\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805FR-0722KP?qs=qpJ%252B%252B%252Bdg6p1%252Bujocy6HmmQ%3D%3D)                                                                                                              |
+| $R7$     | $22\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805FR-0722KP?qs=qpJ%252B%252B%252Bdg6p1%252Bujocy6HmmQ%3D%3D)                                                                                             |
 | $R8$     | $390\ \Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/KOA-Speer/RK73B2ATTD391J?qs=nEPxhbwDDYmySWdMHi8xrQ%3D%3D)                                                                                                             |
-| $R9$     | $33\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/AF0805JR-0733KL?qs=tggtontpCXOgoKY0nuhjTA%3D%3D)                                                                                                              |
+| $R9$     | $33\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/AF0805JR-0733KL?qs=tggtontpCXOgoKY0nuhjTA%3D%3D)                                                                                                             |
 | $R10$    | $470\ k\Omega$					  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805JR-10470KL?qs=qpJ%252B%252B%252Bdg6p2o1a4CuTWYzg%3D%3D)   
-					|
-| $R11$    | $470\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805JR-10470KL?qs=qpJ%252B%252B%252Bdg6p2o1a4CuTWYzg%3D%3D)                                                                                                              |
-| $R12$    | $82\ k\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805FR-1082KL?qs=m6lXFsvg5e1xvGFD2D%2F3dA%3D%3D)                                                                                                            |
+				 |
+| $R11$    | $470\ k\Omega$                    | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805JR-10470KL?qs=qpJ%252B%252B%252Bdg6p2o1a4CuTWYzg%3D%3D)                                                                                                 |
+| $R12$    | $82\ k\Omega$                  | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/RC0805FR-1082KL?qs=m6lXFsvg5e1xvGFD2D%2F3dA%3D%3D)                                                                                                           |
 | $R13$    | $1\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/Vishay/RCA08051K00JNEASR?qs=4dK74SdgGtzzeVVdjfchZQ%3D%3D)                                                                                                             |
-| $R14$    | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/AC0805FR-1310KL?qs=r5DSvlrkXmIkVZsp1lM0Xw%3D%3D)                                                                                                            |
+| $R14$    | $10\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/AC0805FR-1310KL?qs=r5DSvlrkXmIkVZsp1lM0Xw%3D%3D)                                                                                                             |
 | $R15$    | $100\ k\Omega$                   | [Mouser](https://www.mouser.it/ProductDetail/YAGEO/TR0805NR-07100KL?qs=8cPjvKtxWv5DyBOOAqXaXg%3D%3D)                                                                                                             |
 
 ### Capacitors
