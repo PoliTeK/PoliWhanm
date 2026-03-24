@@ -82,11 +82,12 @@
 | $Q3$       | `MPSA18`     | [Mouser](https://www.mouser.it/ProductDetail/Central-Semiconductor/MPSA18-TIN-LEAD?qs=l7cgNqFNU1iVtnZi2z3FUg%3D%3D) |
 | $Q4$       | `TSM680P06CH X0G`     | [Mouser](https://www.mouser.it/ProductDetail/Taiwan-Semiconductor/TSM680P06CH-X0G?qs=5aG0NVq1C4zlg2skZHcgkQ%3D%3D) |
 
-### Potentiometers
+### IC
 
-| Potentiometer | Characteristics            | Part Number            | Link                                                                                                                        |
-| ------------- | -------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Drive         | $500\ k\Omega$ logarithmic | `313-1200F-500K`       | [Mouser](https://www.mouser.it/ProductDetail/Alpha-Taiwan/RV120F-10-15F-A500K-0075?qs=8%252Br4Hz5Xir%252BR5U1RPGVC5A%3D%3D) |
+
+| IC | Part Number | Link                                                                                                      |
+| ---------- | ----------- | --------------------------------------------------------------------------------------------------------- |
+| $Digipot$       | `MCP41100-E/P`     | [Mouser](https://www.mouser.it/ProductDetail/Microchip-Technology/MCP41100-E-P?qs=sGAEpiMZZMsX%252BY3VKDPZyFnq8mwMUQK9g%252B2EoYQZ2Ag%3D) |
 
 ### Connectors and switches
 
