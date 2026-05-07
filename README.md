@@ -119,7 +119,25 @@ To simulate the behaviour of the PCB we designed, we used LTspice ([download her
 
 ### LTspice Setup
 
- (To be Updated afterwards)
+In the SPICE analysis part you will find 4 different .asc files.
+
+1) Wah_SS.asc
+
+In this file you will find a Steady State analysis of the analog wah circuit. Looking through the AUDIO_OUT, the .param command changes the potentiometer value and gives the output analysis of the result.
+
+2) Wah_FT.asc
+
+In this file you will find a Fourier analysis of the analog wah circuit. Looking through the AUDIO_OUT, the .param command changes the potentiometer value and gives the output analysis of the result.
+
+3) Wah_Audio.asc
+
+In this file you will find a Steady State analysis of the analog wah circuit, however, you can analyse an actual audio file.
+To analyze your own audio file all you have to do is to add the audio file in the same folder so LTSpice can see it, and change the value of the signal generator accordingly.
+   
+5) Power Management Pedal.asc
+
+In this file you will find a very simple simulation of how the different 9V and 5V power supply lines are generated inside the pedal to control both the analog and the digital circuitry.
+
 
 ### ESP-NOW Protocol Setup
 
