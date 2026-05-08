@@ -143,6 +143,10 @@ In this file you will find a very simple simulation of how the different 9V and 
 
  (To be Updated afterwards)
 
+### Usage of the Complementary Filter
+
+ (To be Updated afterwards)
+
 
 ## Credits
 
